@@ -1,4 +1,4 @@
-
+This is a webPage where you can chat on a forum 
 
 
 juste copy this into the sql terminal and you are ready to go (make sure to have root as user and no password)
